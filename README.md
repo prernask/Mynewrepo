@@ -1,4 +1,3 @@
-<img width="1897" height="878" alt="image" src="https://github.com/user-attachments/assets/97e3a297-7e23-428b-8d98-4a67e589b10b" /># Mynewrepo
 testing purpose
 
 
